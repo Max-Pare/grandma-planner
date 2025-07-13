@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: #FBFFE4;
+    margin: 0 0 0 0;
+    padding: 1;
+    color: #212529;
+}
+
+.top-bar {
+    font-family: Arial, sans-serif;
+    background-color: #3D8D7A;
+    border-bottom: solid #A3D1C6;
+    margin-top: 2%;
+}
+
+.header-text {
+    font-family: Arial, sans-serif;
+    color: #d6ffd4;
+
+}
